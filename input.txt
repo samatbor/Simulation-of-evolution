@@ -1,0 +1,9 @@
+100 n(number_of_islands)
+100 K(island_capacity)
+2 B(reproduction_of_each)
+0.5 selection
+0.005  mutation_proba
+0.001  migrate_proba
+1  delta
+0.001  v
+0.5  sigma
